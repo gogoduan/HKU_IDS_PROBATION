@@ -1,6 +1,4 @@
-
-
-# HKU IDS PROBATION
+# HKU IDS PROBATION（欢迎补充）
 
 IDS 的 probationary examination 只有两次参加机会。
 
@@ -80,3 +78,33 @@ IDS 的 probationary examination 只有两次参加机会。
 该考试没有固定的通过率或明确的分数线。最终结果由评审老师基于你对相关知识的理解与掌握程度综合判断，可能为 fail、conditional pass（通常意味着需要补修一门课程）或 pass。
 
 **本次考试的笔试与面试全程均需使用英文作答与讲解，请同学们提前以英文训练书写表达、口头陈述与推导叙述能力。**
+
+
+
+## 互联网教程
+
+**2026考研｜《复习全书基础篇・线性代数》图书配套视频｜李永乐讲解** https://www.bilibili.com/video/BV1mDBXYAEnh/?spm_id_from=333.337.search-card.all.click&vd_source=14a22a8aee0d65f30ab36a1e922e55b3
+
+**多元高斯** https://github.com/PKUFlyingPig/CS229/blob/master/mathematics_foundation/gaussians.pdf
+
+**CS229-2018 吴恩达，B站有视频** https://github.com/maxim5/cs229-2018-autumn/tree/main/problem-sets
+
+**吴恩达机器学习课程** https://www.bilibili.com/video/BV1owrpYKEtP/?spm_id_from=333.337.search-card.all.click&vd_source=14a22a8aee0d65f30ab36a1e922e55b3
+
+
+
+## 互联网习题
+
+hw12 https://courses.cs.washington.edu/courses/cse446/25au/assignments/
+
+hw012 https://github.com/BerkeleyML/fa25-student/tree/main/hw
+
+
+
+## 免责声明
+本仓库内容为个人复习笔记与资料整理，仅用于学习交流与备考参考。
+材料可能存在疏漏、错误或过时之处，且不保证覆盖考试全部范围或反映最新出题趋势。
+本仓库不代表 IDS、Graduate School 或任何官方组织立场，亦不构成任何形式的官方指导或通过承诺。
+读者应以学校与项目发布的最新官方要求为准，并对因使用本仓库内容产生的任何后果自行承担责任。
+若本仓库中包含对课程讲义、试题或其他受版权保护内容的引用，其版权归原作者或权利方所有。
+如有侵权或不当引用，请联系我删除或更正相关内容。
