@@ -55,6 +55,8 @@ IDS 的 probationary examination 只有两次参加机会。
 - Learning rate
 - Convergence in expectation
 
+## 考试内容
+
 总体来说考点可以分为三大类，线性代数，概率论，凸优化还有一些机器学习基础知识（矩阵求导，SGD，GD收敛性，Regularization等）
 
 **针对Probation，IDS设置了一门课DATA8015 Mathematical Foundation of Data Science (Foundation)，这门课的主要内容就是Probation的考点，请数学基础薄弱的同学务必参加。**
@@ -66,6 +68,8 @@ IDS 的 probationary examination 只有两次参加机会。
 **本仓库将整理并共享相关复习材料与典型习题，用于系统覆盖考点并训练口头讲解能力。**
 
 **更有效的准备方式是把讲义整体吃透，包括定义、定理、证明框架与常见变体，而不仅是结论本身。**
+
+## 考试形式
 
 考试形式为 30 分钟笔试 + 30 分钟面试。
 
